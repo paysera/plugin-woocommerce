@@ -1,9 +1,9 @@
 plugin-woocommerce
 ==================
 
-Wordpress 3.5
+**Wordpress 3.5**
 Paysera plugin for Woocommerce
-Version of specification: 1.6
+**Version of specification: 1.6**
 
 Installation
 ------------
