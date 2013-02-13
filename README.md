@@ -1,7 +1,7 @@
 plugin-woocommerce
 ==================
 
-**Wordpress 3.5**m
+**Wordpress 3.5**
 
 Paysera plugin for Woocommerce
 
