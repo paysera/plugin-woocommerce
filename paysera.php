@@ -65,7 +65,7 @@ function paysera_init() {
 	
 			// Actions
 			add_action('init', array($this, 'check_callback_request'));
-			add_action('woocommerce_update_options_payment_gateways', array($this, 'process_admin_options'));
+			add_action( 'woocommerce_update_options_payment_gateways_' . $this->id, array( $this, 'process_admin_options' ) );
 			add_action('woocommerce_thankyou_paysera', array($this, 'thankyou'));
 			add_action('paysera_callback', array($this, 'payment_callback') );
 		}
