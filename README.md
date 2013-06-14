@@ -1,7 +1,7 @@
-plugin-woocommerce-2.x
+plugin-woocommerce
 ======================
 
-Paysera.com payment gateway plugin for WooCommerce 2.x
+Paysera.com payment gateway plugin for WooCommerce 1.x
 
 Requirements
 ------------
