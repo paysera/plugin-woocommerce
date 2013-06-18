@@ -12,7 +12,7 @@ Requirements
 Installation
 ------------
 
-1. Download this repository as zip file and extract "wp-content" folder into your wordpress directory
+1. Download this repository as zip file and extract "wp-content" folder into your wordpress directory.
 2. In Admin Panel activate module and go to WooCommerce->Settings->Payment Gateways and fill in all required data under "Paysera" tab.
 
 Contacts
