@@ -1,20 +1,21 @@
 plugin-woocommerce
-==================
+======================
 
-**Wordpress 3.5**
+Paysera.com payment gateway plugin for WooCommerce 1.x
 
-Paysera plugin for Woocommerce
+Requirements
+------------
 
-**Version of specification: 1.6**
+- Wordpress 3.5
+- WooCommerce 1.x
 
 Installation
 ------------
 
-1. Download this repository as zip file
-2. In Admin Panel go to Plugins->Add New->Upload, upload paysera.zip archive and activate it.
-3. In Admin Panel go to WooCommerce->Settings->Payment Gateways and fill in all required data under "Paysera" tab.
+1. Download this repository as zip file and extract "wp-content" folder into your wordpress directory.
+2. In Admin Panel activate module and go to WooCommerce->Settings->Payment Gateways and fill in all required data under "Paysera" tab.
 
 Contacts
 --------
 
-If any problems occur please feel free to seek help via support@webtopay.com
+If any problems occur please feel free to seek help via support@paysera.com
