@@ -1,6 +1,6 @@
 Diegimas
 
-1. Idiekite
+1. Idiekite.
 2. Administracijos paneleje eikite i Plugins->Add New->Upload, ikeltike paysera zip archyva ir aktyvuokite ji.
 3. Administracijos paneleje eikite i WooCommerce->Settings->Payment Gateways ir uzpildykite visa reikalinga informacija "Paysera" skiltyje.
 
