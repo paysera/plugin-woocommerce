@@ -1,3 +1,7 @@
+> **⚠️ DEPRECATED**: This plugin is no longer maintained.
+> Please use the official [Paysera Payment Gateway](https://wordpress.org/plugins/woo-payment-gateway-paysera/) plugin instead.
+> This repository is archived and will not receive updates, bug fixes, or security patches.
+
 plugin-woocommerce
 ======================
 
